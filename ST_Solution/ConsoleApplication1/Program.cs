@@ -6,7 +6,11 @@ namespace ConsoleApplication1
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //NullConditionalOperatorExample.NormalCase();
+            //NullConditionalOperatorExample.NullConditionCase();
+            NullConditionalOperatorExample.NullConditionIfCase();
+
+
             Console.ReadKey();
         }
     }
